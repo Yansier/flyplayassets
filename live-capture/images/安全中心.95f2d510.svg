@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="22px" viewBox="0 0 87 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>安全中心</title>
+    <defs>
+        <linearGradient x1="0%" y1="45.9083597%" x2="100%" y2="55.8109504%" id="linearGradient-1">
+            <stop stop-color="#FFE63D" offset="0%"></stop>
+            <stop stop-color="#FEE83E" offset="42.749792%"></stop>
+            <stop stop-color="#FAA238" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="黑金" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="PingFangSC-Semibold, PingFang SC" font-size="22" font-weight="500">
+        <g id="9-4-安全中心" transform="translate(-25, -137)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <text id="安全中心">
+                <tspan x="24" y="156">安全中心</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_未完成</title>
+    <g id="✅260208设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.5">
+        <g id="8-0-任务中心" transform="translate(-36, -590)" fill="#FFFFFF">
+            <g id="电子亏损金备份" transform="translate(14, 512)">
+                <g id="有效投注" transform="translate(22, 76)" fill-rule="nonzero">
+                    <g id="icon_未完成" transform="translate(0, 2)">
+                        <path d="M8,0 C3.59955407,0 0,3.59955407 0,8 C0,12.4004459 3.59955407,16 8,16 C12.4004459,16 16,12.4004459 16,8 C16,3.59955407 12.4004459,0 8,0 Z M11.8398148,5.32884502 L6.37075586,12 L3.22523187,8.45877887 C2.92492271,8.12861707 2.92492271,7.63431769 3.22523187,7.30604253 C3.52554104,6.97776737 3.97514676,6.97588073 4.27373987,7.30604253 L6.37075586,9.61151521 L10.7158005,4.25912079 C11.0161096,3.92895899 11.4657153,3.92895899 11.7643084,4.17610868 C12.0646176,4.50627048 12.0646176,5.00056985 11.8398148,5.32884502 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

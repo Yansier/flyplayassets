@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="40px" viewBox="0 0 103 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>充值选项s</title>
+    <defs>
+        <linearGradient x1="92.5180838%" y1="55.8870118%" x2="0%" y2="42.4592327%" id="linearGradient-1">
+            <stop stop-color="#FAA238" offset="0%"></stop>
+            <stop stop-color="#FEE63E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.486451%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FCE43D" offset="0%"></stop>
+            <stop stop-color="#FEE83E" offset="36.8241744%"></stop>
+            <stop stop-color="#FAA238" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="103" height="40" rx="6"></rect>
+        <filter x="-0.5%" y="-1.2%" width="101.0%" height="102.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.12 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="充值选项s">
+            <use fill-opacity="0.2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <rect stroke="url(#linearGradient-2)" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="102" height="39" rx="6"></rect>
+        </g>
+    </g>
+</svg>

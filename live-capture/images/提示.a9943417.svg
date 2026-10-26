@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/提示</title>
+    <g id="✅收入+活动+我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-0-邀请好友" transform="translate(-42, -588)" fill="#FAAD14" fill-rule="nonzero">
+            <g id="编组-4" transform="translate(14, 296)">
+                <g id="编组-3" transform="translate(14, 278)">
+                    <g id="提示" transform="translate(14, 11)">
+                        <g id="icon/提示" transform="translate(0, 3)">
+                            <path d="M6,0 C9.3138,0 12,2.6862 12,6 C12,9.3138 9.3138,12 6,12 C2.6862,12 0,9.3138 0,6 C0,2.6862 2.6862,0 6,0 Z M6,2.4 C5.66862915,2.4 5.4,2.66862915 5.4,3.00000001 L5.4,7.8 C5.4,8.13137085 5.66862915,8.4 6,8.4 C6.33137085,8.4 6.6,8.13137085 6.6,7.8 L6.6,3.00000001 C6.6,2.66862915 6.33137085,2.4 6,2.4 L6,2.4 Z M6,10.2 C6.33137085,10.2 6.6,9.93137085 6.6,9.6 C6.6,9.26862914 6.33137085,8.99999999 6,8.99999999 C5.66862915,8.99999999 5.4,9.26862914 5.4,9.6 C5.4,9.93137085 5.66862915,10.2 6,10.2 L6,10.2 Z" id="形状"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

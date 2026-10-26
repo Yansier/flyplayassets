@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_close</title>
+    <g id="✅任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="✅-8-1-狂欢季·抽奖" transform="translate(-174, -575)" stroke="#FFFFFF">
+            <g id="icon_close" transform="translate(174.5, 575.7931)">
+                <circle id="椭圆形" stroke-width="1.5" cx="13" cy="13" r="12.25"></circle>
+                <line x1="7.63560263" y1="7.58609366" x2="18.3608259" y2="18.3113169" id="路径-5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="7.63560263" y1="7.58609366" x2="18.3608259" y2="18.3113169" id="路径-5备份" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.9982, 12.9487) scale(-1, 1) translate(-12.9982, -12.9487)"></line>
+            </g>
+        </g>
+    </g>
+</svg>

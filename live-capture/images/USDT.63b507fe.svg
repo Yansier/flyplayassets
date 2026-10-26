@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图标/USDT</title>
+    <defs>
+        <circle id="path-1" cx="6" cy="6" r="6"></circle>
+    </defs>
+    <g id="✅260208设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9-0我的" transform="translate(-205, -164)">
+            <g id="编组备份" transform="translate(195, 158)">
+                <g id="图标/USDT" transform="translate(10, 6)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="蒙版"></g>
+                    <g id="编组" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                        <path d="M0,6 C0,9.3137085 2.6862915,12 6,12 C9.3137085,12 12,9.3137085 12,6 C12,2.6862915 9.3137085,0 6,0 C2.6862915,0 0,2.6862915 0,6 Z" id="路径" fill="#03AB79" fill-rule="nonzero"></path>
+                        <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="8.8158 3.0258 3.1344 3.0258 3.1344 4.3968 5.2896 4.3968 5.2896 6.4134 6.6612 6.4134 6.6612 4.3968 8.8158 4.3968"></polygon>
+                        <path d="M9.6126,6.1026 C9.6126,5.6538 7.9926,5.2902 5.988,5.2902 C3.9834,5.2902 2.364,5.6538 2.364,6.1026 C2.364,6.498 3.624,6.8274 5.2896,6.9 L5.2896,9.7944 L6.66,9.7944 L6.66,6.9 C8.34,6.8304 9.6126,6.4998 9.6126,6.1026 Z M5.988,6.6282 C4.2054,6.6282 2.76,6.3456 2.76,6 C2.76,5.6544 4.2048,5.37 5.9874,5.37 C7.77,5.37 9.2154,5.652 9.2154,6 C9.2154,6.348 7.7706,6.6282 5.988,6.6282 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

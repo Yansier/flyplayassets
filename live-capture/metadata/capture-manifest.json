@@ -1,0 +1,1433 @@
+{
+  "capturedAt": "2026-10-26T18:50:50.674Z",
+  "entry": "https://zzyl909.com/index.html",
+  "resources": [
+    {
+      "url": "https://zzyl909.com/index.html",
+      "status": 200,
+      "contentType": "text/html",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\index.html",
+      "bytes": 2257
+    },
+    {
+      "url": "https://zzyl909.com/static/css/app.4fa685bd.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\app.4fa685bd.css",
+      "bytes": 129900
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-libs.39c91ef2.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-libs.39c91ef2.css",
+      "bytes": 151262
+    },
+    {
+      "url": "https://zzyl909.com/static/js/runtime.7ecd6f03.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\runtime.7ecd6f03.js",
+      "bytes": 8762
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-libs.737aff16.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-libs.737aff16.js",
+      "bytes": 883316
+    },
+    {
+      "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+      "status": 200,
+      "contentType": "application/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\jquery.min.js",
+      "bytes": 192961
+    },
+    {
+      "url": "https://zzyl909.com/static/js/app.bdb00f7e.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\app.bdb00f7e.js",
+      "bytes": 2863966
+    },
+    {
+      "url": "https://ca.turing.captcha.qcloud.com/TJNCaptcha-global.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\TJNCaptcha-global.js",
+      "bytes": 184886
+    },
+    {
+      "url": "https://global.turing.captcha.gtimg.com/tgJNCapCss-global.62bcf9ef.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\tgJNCapCss-global.62bcf9ef.css",
+      "bytes": 65520
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-4508e90d.7a117a9b.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-4508e90d.7a117a9b.css",
+      "bytes": 181661
+    },
+    {
+      "url": "https://global.turing.captcha.gtimg.com/TDID_2.7.2.js",
+      "status": 200,
+      "contentType": "application/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\TDID_2.7.2.js",
+      "bytes": 710767
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-4508e90d.266d823d.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-4508e90d.266d823d.js",
+      "bytes": 101435
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-2d21d0c2.01548541.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-2d21d0c2.01548541.js",
+      "bytes": 20192
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-6aa2bf01.22e80a7f.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-6aa2bf01.22e80a7f.js",
+      "bytes": 206026
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E9%A6%96%E9%A1%B5loading.3505d2c2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E9%A6%96%E9%A1%B5loading.3505d2c2.png",
+      "bytes": 74698
+    },
+    {
+      "url": "https://zzyl909.com/static/img/button_%E6%8E%A8%E8%8D%90VPN.c1267cf1.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\button_%E6%8E%A8%E8%8D%90VPN.c1267cf1.webp",
+      "bytes": 4260
+    },
+    {
+      "url": "https://zzyl909.com/static/img/home-bg.36379d9c.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\home-bg.36379d9c.png",
+      "bytes": 369602
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%85%85%E5%80%BC@2x.97f26eb9.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%85%85%E5%80%BC@2x.97f26eb9.webp",
+      "bytes": 7922
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E4%BB%BB%E5%8A%A1@2x.5d976296.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E4%BB%BB%E5%8A%A1@2x.5d976296.webp",
+      "bytes": 9106
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%8F%90%E7%8E%B0@2x.688068fa.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%8F%90%E7%8E%B0@2x.688068fa.webp",
+      "bytes": 9016
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E9%82%80%E8%AF%B7@2x.6ed328e0.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E9%82%80%E8%AF%B7@2x.6ed328e0.webp",
+      "bytes": 9644
+    },
+    {
+      "url": "https://zzyl909.com/static/img/game_provider.26d93723.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\game_provider.26d93723.png",
+      "bytes": 52859
+    },
+    {
+      "url": "https://zzyl909.com/static/img/provider_gfg.1ae695c4.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\provider_gfg.1ae695c4.png",
+      "bytes": 20760
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%B8%81%E5%AE%89.2776e44c.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%B8%81%E5%AE%89.2776e44c.svg",
+      "bytes": 1414
+    },
+    {
+      "url": "https://zzyl909.com/static/img/provider_pg.140b8ae6.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\provider_pg.140b8ae6.png",
+      "bytes": 29720
+    },
+    {
+      "url": "https://zzyl909.com/static/img/provider_evo.25d0355f.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\provider_evo.25d0355f.png",
+      "bytes": 33600
+    },
+    {
+      "url": "https://zzyl909.com/static/img/provider_pp.3390e3aa.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\provider_pp.3390e3aa.png",
+      "bytes": 28552
+    },
+    {
+      "url": "https://zzyl909.com/static/img/provider_wm.ba288149.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\provider_wm.ba288149.png",
+      "bytes": 26259
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%94%B6%E5%85%A5@2x.7c22fd0e.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%94%B6%E5%85%A5@2x.7c22fd0e.webp",
+      "bytes": 8884
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%AC%A7%E6%98%93.db9b41f3.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%AC%A7%E6%98%93.db9b41f3.svg",
+      "bytes": 53482
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E7%81%AB%E5%B8%81%E7%BD%91.8c599bf2.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E7%81%AB%E5%B8%81%E7%BD%91.8c599bf2.svg",
+      "bytes": 1430
+    },
+    {
+      "url": "https://global.turing.captcha.gtimg.com/dy-jy3.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\dy-jy3.js",
+      "bytes": 89391
+    },
+    {
+      "url": "https://fpnpmcdn.net/v3/pXagydxJZigBk7R1t9BZ/loader_v3.12.9.js",
+      "status": 200,
+      "contentType": "text/javascript; charset=utf-8",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\loader_v3.12.9.js",
+      "bytes": 182638
+    },
+    {
+      "url": "https://global.turing.captcha.gtimg.com/tgJNCap-global.5320b6c1.js",
+      "status": 200,
+      "contentType": "application/javascript",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\tgJNCap-global.5320b6c1.js",
+      "bytes": 716518
+    },
+    {
+      "url": "https://int.zzyl901.com/gethomeconfig",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\gethomeconfig",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/getTiktokPixelInfo",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getTiktokPixelInfo",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/user/getuserinfo?visitorName=PC&visitorType=Chrome",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getuserinfo_f14d05",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/getFBPixelInfo",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getFBPixelInfo",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/gethomedata?visitorName=PC&visitorType=Chrome",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\gethomedata_f14d05",
+      "bytes": 8235
+    },
+    {
+      "url": "https://ap.api.fpjs.io/XAhgQ/DDm1Ndk/W3RX6vJ/NjQ-1?q=pXagydxJZigBk7R1t9BZ",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\metadata\\NjQ-1_4448de",
+      "bytes": 96
+    },
+    {
+      "url": "https://ap.api.fpjs.io/?ci=js/3.12.16&q=pXagydxJZigBk7R1t9BZ",
+      "status": 200,
+      "contentType": "text/plain",
+      "route": "/home",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\metadata\\resource_977dbc06274e_230c6b",
+      "bytes": 1180
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-b4a4df72.95636d64.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/activity",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-b4a4df72.95636d64.css",
+      "bytes": 3902
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-b4a4df72.139f0afd.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/activity",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-b4a4df72.139f0afd.js",
+      "bytes": 1570
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E5%86%85%E9%A1%B5%E6%99%AE%E9%80%9A%E8%83%8C%E6%99%AF.9defcadf.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/activity",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E5%86%85%E9%A1%B5%E6%99%AE%E9%80%9A%E8%83%8C%E6%99%AF.9defcadf.png",
+      "bytes": 228226
+    },
+    {
+      "url": "https://int.zzyl901.com/activity/activlist",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/activity",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\activlist",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-44d9d82f.85efd051.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-44d9d82f.85efd051.js",
+      "bytes": 14933
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-2d0b6d26.81000eb4.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-2d0b6d26.81000eb4.js",
+      "bytes": 150167
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-44d9d82f.fac47ca8.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-44d9d82f.fac47ca8.css",
+      "bytes": 56537
+    },
+    {
+      "url": "https://zzyl909.com/static/img/icon_%E5%A4%8D%E5%88%B6.21593bb5.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\icon_%E5%A4%8D%E5%88%B6.21593bb5.svg",
+      "bytes": 2271
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%85%85%E5%80%BC.7bd4eaec.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%85%85%E5%80%BC.7bd4eaec.svg",
+      "bytes": 2314
+    },
+    {
+      "url": "https://zzyl909.com/static/img/USDT.63b507fe.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\USDT.63b507fe.svg",
+      "bytes": 1864
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%85%85%E6%8F%90%E8%AE%B0%E5%BD%95.a8f5592d.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%85%85%E6%8F%90%E8%AE%B0%E5%BD%95.a8f5592d.svg",
+      "bytes": 3405
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%88%91%E7%9A%84_button_%E6%8F%90%E7%8E%B0.e0bad031.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%88%91%E7%9A%84_button_%E6%8F%90%E7%8E%B0.e0bad031.webp",
+      "bytes": 5120
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E4%BA%A4%E6%98%93%E8%AE%B0%E5%BD%95.73b8ffeb.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E4%BA%A4%E6%98%93%E8%AE%B0%E5%BD%95.73b8ffeb.svg",
+      "bytes": 3255
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%88%91%E7%9A%84_button_%E5%85%85%E5%80%BC.12745849.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%88%91%E7%9A%84_button_%E5%85%85%E5%80%BC.12745849.webp",
+      "bytes": 12846
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E5%8D%A1%E7%89%87%20%E5%8A%9F%E8%83%BD%E5%8C%BA.bc0e1bfb.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E5%8D%A1%E7%89%87%20%E5%8A%9F%E8%83%BD%E5%8C%BA.bc0e1bfb.webp",
+      "bytes": 57870
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E8%BE%93%E8%B5%A2%E6%8A%A5%E8%A1%A8.e5d63394.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E8%BE%93%E8%B5%A2%E6%8A%A5%E8%A1%A8.e5d63394.svg",
+      "bytes": 2662
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83.3ca689fa.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83.3ca689fa.svg",
+      "bytes": 2205
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%8A%BD%E5%A5%96%E5%88%B8%E6%8A%A5%E8%A1%A8.a9a99f33.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%8A%BD%E5%A5%96%E5%88%B8%E6%8A%A5%E8%A1%A8.a9a99f33.svg",
+      "bytes": 4368
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%8A%95%E6%B3%A8%E8%AE%B0%E5%BD%95.79a70b08.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%8A%95%E6%B3%A8%E8%AE%B0%E5%BD%95.79a70b08.svg",
+      "bytes": 4330
+    },
+    {
+      "url": "https://zzyl909.com/static/img/avatar1.ab81aa68.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\avatar1.ab81aa68.png",
+      "bytes": 29886
+    },
+    {
+      "url": "https://zzyl909.com/static/img/img_%E6%8E%A8%E8%8D%90%E5%A5%BD%E5%8F%8B@2x.9df8666c.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\img_%E6%8E%A8%E8%8D%90%E5%A5%BD%E5%8F%8B@2x.9df8666c.webp",
+      "bytes": 43238
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E5%8D%A1%E7%89%87%20%E5%85%B6%E4%BB%96%E5%8A%9F%E8%83%BD.ba7ebd02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E5%8D%A1%E7%89%87%20%E5%85%B6%E4%BB%96%E5%8A%9F%E8%83%BD.ba7ebd02.webp",
+      "bytes": 58160
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E8%B4%AD%E4%B9%B0%E8%B4%A7%E5%B8%81.1870a759.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E8%B4%AD%E4%B9%B0%E8%B4%A7%E5%B8%81.1870a759.svg",
+      "bytes": 2705
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%8F%90%E7%8E%B0.ac7f186c.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%8F%90%E7%8E%B0.ac7f186c.svg",
+      "bytes": 3414
+    },
+    {
+      "url": "https://int.zzyl901.com/vip/myvip",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\myvip",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/user/getuserinfo",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getuserinfo",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/invite/shareother",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/user",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\shareother",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/img/icon_%E5%AF%86%E7%A0%81.08b9cd52.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\icon_%E5%AF%86%E7%A0%81.08b9cd52.svg",
+      "bytes": 1941
+    },
+    {
+      "url": "https://zzyl909.com/static/img/button_%E5%BC%B9%E7%AA%97_%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C.569b5d3d.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\button_%E5%BC%B9%E7%AA%97_%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C.569b5d3d.webp",
+      "bytes": 19036
+    },
+    {
+      "url": "https://zzyl909.com/static/img/icon_%E8%B4%A6%E5%8F%B7.50212ae6.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\icon_%E8%B4%A6%E5%8F%B7.50212ae6.svg",
+      "bytes": 1710
+    },
+    {
+      "url": "https://zzyl909.com/static/img/icon_close.6537844b.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\icon_close.6537844b.svg",
+      "bytes": 1060
+    },
+    {
+      "url": "https://zzyl909.com/static/img/icon_%E5%AE%A2%E6%9C%8D.54d0d8a2.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\icon_%E5%AE%A2%E6%9C%8D.54d0d8a2.svg",
+      "bytes": 2528
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%9B%BE%E6%A0%87_tg.b526afd3.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%9B%BE%E6%A0%87_tg.b526afd3.svg",
+      "bytes": 1315
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%9B%BE%E6%A0%87_google.d669e966.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%9B%BE%E6%A0%87_google.d669e966.svg",
+      "bytes": 1840
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%9B%BE%E6%A0%87_fb.7eaf0249.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%9B%BE%E6%A0%87_fb.7eaf0249.svg",
+      "bytes": 1223
+    },
+    {
+      "url": "https://int.zzyl901.com/user/getUToken",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getUToken",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/getBotinfo",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/login",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getBotinfo",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-8792ddae.54189433.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/taskCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-8792ddae.54189433.css",
+      "bytes": 31580
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-8792ddae.91b3a3d0.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/taskCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-8792ddae.91b3a3d0.js",
+      "bytes": 17816
+    },
+    {
+      "url": "https://int.zzyl901.com/task/getTask?pages=1",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/taskCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getTask_0ad91e",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-5116e2e5.0ed8ed4d.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/vip",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-5116e2e5.0ed8ed4d.js",
+      "bytes": 19225
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-5116e2e5.771cddd2.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/vip",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-5116e2e5.771cddd2.css",
+      "bytes": 12101
+    },
+    {
+      "url": "https://zzyl909.com/static/img/exclusive-icon2.c27c9ff3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/vip",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\exclusive-icon2.c27c9ff3.png",
+      "bytes": 5479
+    },
+    {
+      "url": "https://zzyl909.com/static/img/slide-bg-on.fec58d04.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/vip",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\slide-bg-on.fec58d04.png",
+      "bytes": 317300
+    },
+    {
+      "url": "https://zzyl909.com/static/img/exclusive-icon1.2e70b919.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/vip",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\exclusive-icon1.2e70b919.png",
+      "bytes": 6412
+    },
+    {
+      "url": "https://zzyl909.com/static/img/vip-level-bg.6ef0c682.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/vip",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\vip-level-bg.6ef0c682.png",
+      "bytes": 14045
+    },
+    {
+      "url": "https://zzyl909.com/static/img/vip-info-right.79efb046.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/vip",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\vip-info-right.79efb046.png",
+      "bytes": 140953
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-07c426b3.b517f0b8.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/shareFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-07c426b3.b517f0b8.css",
+      "bytes": 11977
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-07c426b3.15589d96.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/shareFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-07c426b3.15589d96.js",
+      "bytes": 4044
+    },
+    {
+      "url": "https://zzyl909.com/static/img/tg@2x.a9b24008.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/shareFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\tg@2x.a9b24008.webp",
+      "bytes": 4846
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E9%A3%9E%E6%9C%BA%E9%93%BE%E6%8E%A5@2x.47db980b.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/shareFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E9%A3%9E%E6%9C%BA%E9%93%BE%E6%8E%A5@2x.47db980b.webp",
+      "bytes": 5272
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5@2x.80eb52a1.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/shareFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5@2x.80eb52a1.webp",
+      "bytes": 5146
+    },
+    {
+      "url": "https://zzyl909.com/static/img/WhatsApp@2x.66c860e2.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/shareFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\WhatsApp@2x.66c860e2.webp",
+      "bytes": 5166
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E9%82%80%E8%AF%B7%E5%A5%BD%E5%8F%8B@2x.b9e69d08.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/shareFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E9%82%80%E8%AF%B7%E5%A5%BD%E5%8F%8B@2x.b9e69d08.webp",
+      "bytes": 210406
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-5c12875d.a4fa878f.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/inviteFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-5c12875d.a4fa878f.css",
+      "bytes": 38350
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-5c12875d.72ea266c.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/inviteFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-5c12875d.72ea266c.js",
+      "bytes": 14217
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%88%91%E7%9A%84%E6%94%B6%E5%85%A5_button_%E9%A2%86%E5%8F%96.33c31659.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/inviteFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%88%91%E7%9A%84%E6%94%B6%E5%85%A5_button_%E9%A2%86%E5%8F%96.33c31659.webp",
+      "bytes": 4990
+    },
+    {
+      "url": "https://int.zzyl901.com/user/getAgentinfo",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/inviteFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getAgentinfo",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl901.com/invite/agentdata2",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/inviteFriends",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\agentdata2",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-260c0cbb.dfc10a8a.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/recharge",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-260c0cbb.dfc10a8a.js",
+      "bytes": 3723
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-260c0cbb.a402fe85.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/recharge",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-260c0cbb.a402fe85.css",
+      "bytes": 18306
+    },
+    {
+      "url": "https://zzyl909.com/static/img/recharge_gold_icon.039b4e3d.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/recharge",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\recharge_gold_icon.039b4e3d.png",
+      "bytes": 41492
+    },
+    {
+      "url": "https://int.zzyl901.com/user/getSuppleUrl",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/recharge",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getSuppleUrl",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-3ec2ef1a.fbfc853d.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/reflect",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-3ec2ef1a.fbfc853d.js",
+      "bytes": 26911
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-3ec2ef1a.c01b7cc6.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/reflect",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-3ec2ef1a.c01b7cc6.css",
+      "bytes": 55339
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-91071a16.cc777dcc.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/reflect",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-91071a16.cc777dcc.js",
+      "bytes": 377366
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%85%85%E6%8F%90%E8%AE%B0%E5%BD%95.12d6eb9f.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/reflect",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%85%85%E6%8F%90%E8%AE%B0%E5%BD%95.12d6eb9f.webp",
+      "bytes": 5398
+    },
+    {
+      "url": "https://int.zzyl901.com/draw/webDrawIndex",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/reflect",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\webDrawIndex",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-a1caaf50.d14191cf.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/orderRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-a1caaf50.d14191cf.js",
+      "bytes": 13764
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-a1caaf50.9994d893.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/orderRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-a1caaf50.9994d893.css",
+      "bytes": 27924
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E6%9A%82%E6%97%A0%E6%95%B0%E6%8D%AE.55bf60e2.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/orderRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E6%9A%82%E6%97%A0%E6%95%B0%E6%8D%AE.55bf60e2.webp",
+      "bytes": 17694
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E5%86%85%E9%A1%B5%E8%83%8C%E6%99%AF.d9b2d8c3.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/orderRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E5%86%85%E9%A1%B5%E8%83%8C%E6%99%AF.d9b2d8c3.png",
+      "bytes": 499652
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-eb13fa78.aa8a7386.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/orderRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-eb13fa78.aa8a7386.css",
+      "bytes": 1566
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-eb13fa78.a2574d86.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/orderRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-eb13fa78.a2574d86.js",
+      "bytes": 2850
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E3%80%90%E7%B4%AB%E9%87%91%E3%80%91img_404.c1d3c59a.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/orderRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E3%80%90%E7%B4%AB%E9%87%91%E3%80%91img_404.c1d3c59a.png",
+      "bytes": 51252
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-c169c6e4.cab5fe21.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/rechargeRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-c169c6e4.cab5fe21.css",
+      "bytes": 13525
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-c169c6e4.c3baf8c5.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/rechargeRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-c169c6e4.c3baf8c5.js",
+      "bytes": 4480
+    },
+    {
+      "url": "https://int.zzyl902.com/user/getuserinfo?visitorName=PC&visitorType=Chrome",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/rechargeRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getuserinfo_f14d05",
+      "skippedDuplicate": true
+    },
+    {
+      "url": "https://int.zzyl902.com/gethomedata?visitorName=PC&visitorType=Chrome",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/rechargeRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\gethomedata_f14d05",
+      "skippedDuplicate": true
+    },
+    {
+      "url": "https://int.zzyl902.com/pay/toprecord?type=30&pages=1",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/rechargeRecord",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\toprecord_d67ac8",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-14abfa5a.574bcec0.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/safeCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-14abfa5a.574bcec0.css",
+      "bytes": 11091
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-14abfa5a.c69fa203.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/safeCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-14abfa5a.c69fa203.js",
+      "bytes": 4743
+    },
+    {
+      "url": "https://zzyl909.com/static/img/%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83.17361179.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/safeCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83.17361179.svg",
+      "bytes": 527
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83.3ef8f418.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/safeCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83.3ef8f418.png",
+      "bytes": 433329
+    },
+    {
+      "url": "https://int.zzyl902.com/safe/infos",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/safeCenter",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\infos",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-6cf86faa.4b2e7134.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/vipDetail",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-6cf86faa.4b2e7134.js",
+      "bytes": 7202
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-6cf86faa.ce24dcbf.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/vipDetail",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-6cf86faa.ce24dcbf.css",
+      "bytes": 35776
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_VIP%E5%A4%B4%E9%83%A8.72123b44.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/vipDetail",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_VIP%E5%A4%B4%E9%83%A8.72123b44.webp",
+      "bytes": 215938
+    },
+    {
+      "url": "https://zzyl909.com/static/img/icon_%E5%A4%8D%E5%88%B6.91a5334a.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "route": "/vipDetail",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\icon_%E5%A4%8D%E5%88%B6.91a5334a.svg",
+      "bytes": 1626
+    },
+    {
+      "url": "https://int.zzyl902.com/vip/vipdetail",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/vipDetail",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\vipdetail",
+      "bytes": 8235
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-6be9950d.f8797346.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/softwareDownload",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-6be9950d.f8797346.css",
+      "bytes": 15227
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-6be9950d.2200e0a7.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/softwareDownload",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-6be9950d.2200e0a7.js",
+      "bytes": 24686
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%99%E7%A8%8B.292b83d0.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "route": "/softwareDownload",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%99%E7%A8%8B.292b83d0.webp",
+      "bytes": 61376
+    },
+    {
+      "url": "https://int.zzyl902.com/getServerUrl",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/softwareDownload",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getServerUrl",
+      "bytes": 8235
+    },
+    {
+      "url": "https://int.zzyl902.com/getBotinfo",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/softwareDownload",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getBotinfo",
+      "skippedDuplicate": true
+    },
+    {
+      "url": "https://zzyl909.com/static/js/chunk-4fdfc0e0.a6968264.js",
+      "status": 200,
+      "contentType": "text/javascript",
+      "route": "/partner",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\js\\chunks\\chunk-4fdfc0e0.a6968264.js",
+      "bytes": 3044
+    },
+    {
+      "url": "https://zzyl909.com/static/css/chunk-4fdfc0e0.e5ca690a.css",
+      "status": 200,
+      "contentType": "text/css",
+      "route": "/partner",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\css\\chunks\\chunk-4fdfc0e0.e5ca690a.css",
+      "bytes": 13291
+    },
+    {
+      "url": "https://zzyl909.com/static/img/proxy-icon1.f4e024bc.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/partner",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\proxy-icon1.f4e024bc.png",
+      "bytes": 16235
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_VIP%E4%BB%A3%E7%90%86.7efe60b9.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/partner",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_VIP%E4%BB%A3%E7%90%86.7efe60b9.png",
+      "bytes": 272165
+    },
+    {
+      "url": "https://zzyl909.com/static/img/bg_%E6%99%AE%E9%80%9A%E4%BB%A3%E7%90%86.849670a5.png",
+      "status": 200,
+      "contentType": "image/png",
+      "route": "/partner",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\images\\bg_%E6%99%AE%E9%80%9A%E4%BB%A3%E7%90%86.849670a5.png",
+      "bytes": 273558
+    },
+    {
+      "url": "https://int.zzyl902.com/user/getAgentinfo",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "route": "/partner",
+      "savedPath": "D:\\BuildYourdream\\mission\\20261019telegramgame\\Phase2\\live-capture\\html\\getAgentinfo",
+      "skippedDuplicate": true
+    }
+  ],
+  "routesVisited": [
+    {
+      "path": "/home",
+      "url": "https://zzyl909.com/index.html#/home",
+      "at": "2026-10-26T18:50:51.734Z"
+    },
+    {
+      "path": "/activity",
+      "url": "https://zzyl909.com/index.html#/activity",
+      "at": "2026-10-26T18:51:00.491Z"
+    },
+    {
+      "path": "/user",
+      "url": "https://zzyl909.com/index.html#/user",
+      "at": "2026-10-26T18:51:06.053Z"
+    },
+    {
+      "path": "/login",
+      "url": "https://zzyl909.com/index.html#/login",
+      "at": "2026-10-26T18:51:11.598Z"
+    },
+    {
+      "path": "/registry",
+      "url": "https://zzyl909.com/index.html#/registry",
+      "at": "2026-10-26T18:51:17.127Z"
+    },
+    {
+      "path": "/taskCenter",
+      "url": "https://zzyl909.com/index.html#/taskCenter",
+      "at": "2026-10-26T18:51:22.684Z"
+    },
+    {
+      "path": "/vip",
+      "url": "https://zzyl909.com/index.html#/vip",
+      "at": "2026-10-26T18:51:28.233Z"
+    },
+    {
+      "path": "/shareFriends",
+      "url": "https://zzyl909.com/index.html#/shareFriends",
+      "at": "2026-10-26T18:51:33.773Z"
+    },
+    {
+      "path": "/inviteFriends",
+      "url": "https://zzyl909.com/index.html#/inviteFriends",
+      "at": "2026-10-26T18:51:39.350Z"
+    },
+    {
+      "path": "/recharge",
+      "url": "https://zzyl909.com/index.html#/recharge",
+      "at": "2026-10-26T18:51:44.899Z"
+    },
+    {
+      "path": "/reflect",
+      "url": "https://zzyl909.com/index.html#/reflect",
+      "at": "2026-10-26T18:51:50.446Z"
+    },
+    {
+      "path": "/orderRecord",
+      "url": "https://zzyl909.com/index.html#/orderRecord",
+      "at": "2026-10-26T18:51:55.979Z"
+    },
+    {
+      "path": "/rechargeRecord",
+      "url": "https://zzyl909.com/index.html#/rechargeRecord",
+      "at": "2026-10-26T18:52:01.531Z"
+    },
+    {
+      "path": "/safeCenter",
+      "url": "https://zzyl909.com/index.html#/safeCenter",
+      "at": "2026-10-26T18:52:07.069Z"
+    },
+    {
+      "path": "/vipDetail",
+      "url": "https://zzyl909.com/index.html#/vipDetail",
+      "at": "2026-10-26T18:52:12.596Z"
+    },
+    {
+      "path": "/softwareDownload",
+      "url": "https://zzyl909.com/index.html#/softwareDownload",
+      "at": "2026-10-26T18:52:18.118Z"
+    },
+    {
+      "path": "/partner",
+      "url": "https://zzyl909.com/index.html#/partner",
+      "at": "2026-10-26T18:52:23.659Z"
+    },
+    {
+      "path": "/home",
+      "url": "https://zzyl909.com/index.html#/home",
+      "at": "2026-10-26T18:52:29.178Z"
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://zzyl909.com/undefined",
+      "status": 404,
+      "route": "/user"
+    }
+  ],
+  "apiImageFields": [],
+  "chunkLoadsByRoute": {
+    "/home": {
+      "js": [
+        "chunk-4508e90d",
+        "chunk-2d21d0c2",
+        "chunk-6aa2bf01"
+      ],
+      "css": [
+        "chunk-4508e90d"
+      ]
+    },
+    "/activity": {
+      "js": [
+        "chunk-b4a4df72"
+      ],
+      "css": [
+        "chunk-b4a4df72"
+      ]
+    },
+    "/user": {
+      "js": [
+        "chunk-44d9d82f",
+        "chunk-2d0b6d26"
+      ],
+      "css": [
+        "chunk-44d9d82f"
+      ]
+    },
+    "/taskCenter": {
+      "js": [
+        "chunk-8792ddae"
+      ],
+      "css": [
+        "chunk-8792ddae"
+      ]
+    },
+    "/vip": {
+      "js": [
+        "chunk-5116e2e5"
+      ],
+      "css": [
+        "chunk-5116e2e5"
+      ]
+    },
+    "/shareFriends": {
+      "js": [
+        "chunk-07c426b3"
+      ],
+      "css": [
+        "chunk-07c426b3"
+      ]
+    },
+    "/inviteFriends": {
+      "js": [
+        "chunk-5c12875d"
+      ],
+      "css": [
+        "chunk-5c12875d"
+      ]
+    },
+    "/recharge": {
+      "js": [
+        "chunk-260c0cbb"
+      ],
+      "css": [
+        "chunk-260c0cbb"
+      ]
+    },
+    "/reflect": {
+      "js": [
+        "chunk-3ec2ef1a",
+        "chunk-91071a16"
+      ],
+      "css": [
+        "chunk-3ec2ef1a"
+      ]
+    },
+    "/orderRecord": {
+      "js": [
+        "chunk-a1caaf50",
+        "chunk-eb13fa78"
+      ],
+      "css": [
+        "chunk-a1caaf50",
+        "chunk-eb13fa78"
+      ]
+    },
+    "/rechargeRecord": {
+      "js": [
+        "chunk-c169c6e4"
+      ],
+      "css": [
+        "chunk-c169c6e4"
+      ]
+    },
+    "/safeCenter": {
+      "js": [
+        "chunk-14abfa5a"
+      ],
+      "css": [
+        "chunk-14abfa5a"
+      ]
+    },
+    "/vipDetail": {
+      "js": [
+        "chunk-6cf86faa"
+      ],
+      "css": [
+        "chunk-6cf86faa"
+      ]
+    },
+    "/softwareDownload": {
+      "js": [
+        "chunk-6be9950d"
+      ],
+      "css": [
+        "chunk-6be9950d"
+      ]
+    },
+    "/partner": {
+      "js": [
+        "chunk-4fdfc0e0"
+      ],
+      "css": [
+        "chunk-4fdfc0e0"
+      ]
+    }
+  },
+  "bootstrap": {
+    "title": "game",
+    "scripts": [
+      "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+      "https://ca.turing.captcha.qcloud.com/TJNCaptcha-global.js",
+      "https://global.turing.captcha.gtimg.com/TDID_2.7.2.js",
+      "https://zzyl909.com/static/js/chunk-2d21d0c2.01548541.js",
+      "https://zzyl909.com/static/js/chunk-6aa2bf01.22e80a7f.js",
+      "https://zzyl909.com/static/js/chunk-4508e90d.266d823d.js",
+      "https://global.turing.captcha.gtimg.com/dy-jy3.js",
+      "https://global.turing.captcha.gtimg.com/tgJNCap-global.5320b6c1.js",
+      "https://zzyl909.com/static/js/chunk-b4a4df72.139f0afd.js",
+      "https://zzyl909.com/static/js/chunk-2d0b6d26.81000eb4.js",
+      "https://zzyl909.com/static/js/chunk-44d9d82f.85efd051.js",
+      "https://zzyl909.com/static/js/chunk-8792ddae.91b3a3d0.js",
+      "https://zzyl909.com/static/js/chunk-5116e2e5.0ed8ed4d.js",
+      "https://zzyl909.com/static/js/chunk-07c426b3.15589d96.js",
+      "https://zzyl909.com/static/js/chunk-5c12875d.72ea266c.js",
+      "https://zzyl909.com/static/js/chunk-260c0cbb.dfc10a8a.js",
+      "https://zzyl909.com/static/js/chunk-91071a16.cc777dcc.js",
+      "https://zzyl909.com/static/js/chunk-3ec2ef1a.fbfc853d.js",
+      "https://zzyl909.com/static/js/chunk-a1caaf50.d14191cf.js",
+      "https://zzyl909.com/static/js/chunk-eb13fa78.a2574d86.js",
+      "https://zzyl909.com/static/js/chunk-c169c6e4.c3baf8c5.js",
+      "https://zzyl909.com/static/js/chunk-14abfa5a.c69fa203.js",
+      "https://zzyl909.com/static/js/chunk-6cf86faa.4b2e7134.js",
+      "https://zzyl909.com/static/js/chunk-6be9950d.2200e0a7.js",
+      "https://zzyl909.com/static/js/chunk-4fdfc0e0.a6968264.js",
+      "https://zzyl909.com/static/js/runtime.7ecd6f03.js",
+      "https://zzyl909.com/static/js/chunk-libs.737aff16.js",
+      "https://zzyl909.com/static/js/app.bdb00f7e.js"
+    ],
+    "stylesheets": [
+      "https://zzyl909.com/imageConfig/zzyl888favicon.ico",
+      "https://zzyl909.com/imageConfig/zzyl888logo.png",
+      "https://global.turing.captcha.gtimg.com/tgJNCapCss-global.62bcf9ef.css",
+      "https://zzyl909.com/static/css/app.4fa685bd.css",
+      "https://zzyl909.com/static/css/chunk-libs.39c91ef2.css",
+      "https://zzyl909.com/static/js/app.bdb00f7e.js",
+      "https://zzyl909.com/static/js/chunk-libs.737aff16.js",
+      "https://zzyl909.com/static/css/chunk-libs.39c91ef2.css",
+      "https://zzyl909.com/static/css/app.4fa685bd.css",
+      "https://zzyl909.com/static/css/chunk-4508e90d.7a117a9b.css",
+      "https://zzyl909.com/static/css/chunk-b4a4df72.95636d64.css",
+      "https://zzyl909.com/static/css/chunk-44d9d82f.fac47ca8.css",
+      "https://zzyl909.com/static/css/chunk-8792ddae.54189433.css",
+      "https://zzyl909.com/static/css/chunk-5116e2e5.771cddd2.css",
+      "https://zzyl909.com/static/css/chunk-07c426b3.b517f0b8.css",
+      "https://zzyl909.com/static/css/chunk-5c12875d.a4fa878f.css",
+      "https://zzyl909.com/static/css/chunk-260c0cbb.a402fe85.css",
+      "https://zzyl909.com/static/css/chunk-3ec2ef1a.c01b7cc6.css",
+      "https://zzyl909.com/static/css/chunk-a1caaf50.9994d893.css",
+      "https://zzyl909.com/static/css/chunk-eb13fa78.aa8a7386.css",
+      "https://zzyl909.com/static/css/chunk-c169c6e4.cab5fe21.css",
+      "https://zzyl909.com/static/css/chunk-14abfa5a.574bcec0.css",
+      "https://zzyl909.com/static/css/chunk-6cf86faa.ce24dcbf.css",
+      "https://zzyl909.com/static/css/chunk-6be9950d.f8797346.css",
+      "https://zzyl909.com/static/css/chunk-4fdfc0e0.e5ca690a.css"
+    ],
+    "hasApp": true,
+    "vueDetected": true,
+    "hash": "#/home"
+  }
+}

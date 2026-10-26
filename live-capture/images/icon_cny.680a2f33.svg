@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_cny</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="筹码切换" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-247.000000, -330.000000)" id="弹窗">
+            <g transform="translate(30.000000, 210.000000)">
+                <g id="输入框" transform="translate(20.000000, 24.000000)">
+                    <g id="编组-5备份" transform="translate(143.000000, 80.000000)">
+                        <g id="icon_cny" transform="translate(54.000000, 16.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="蒙版"></g>
+                            <g id="编组" mask="url(#mask-2)" fill-rule="nonzero">
+                                <path d="M12,0 C5.37186667,0 0,5.37186667 0,12 C0,18.6281333 5.37186667,24 12,24 C18.6257867,24 24,18.6281333 24,12 C24,5.37186667 18.6257867,0 12,0 Z" id="形状" fill="#F83F52"></path>
+                                <polygon id="路径" fill="#FFFFFF" points="16.7967411 11.7995897 16.7967411 12.9989742 13.1991795 12.9989742 13.1991795 15.3997948 16.7987693 15.3997948 16.7987693 16.5991794 13.1991795 16.5991794 13.1991795 19 10.7987693 19 10.7987693 16.5991794 7.19917951 16.5991794 7.19917951 15.3997948 10.8007974 15.3997948 10.8007974 12.9989742 7.19917951 12.9989742 7.19917951 11.7995897 10.9122086 11.8137663 6 7 8.40041024 7 12 10.6002052 15.5995898 7 18 7 13.5030595 11.8137663 16.7967872 11.7995897"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

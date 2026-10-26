@@ -1,0 +1,10 @@
+const fs = require('fs');
+const p = 'D:/BuildYourdream/mission/20261019telegramgame/zzyl909.com/static-Decompress/static/js/app.bdb00f7e.js';
+const s = fs.readFileSync(p, 'utf8');
+console.log('len', s.length);
+const re = /path:"(\/[^"]*)"/g;
+const paths = new Set();
+let m;
+while ((m = re.exec(s))) paths.add(m[1]);
+console.log('PATH_COUNT', paths.size);
+console.log([...paths].sort().join('\n'));

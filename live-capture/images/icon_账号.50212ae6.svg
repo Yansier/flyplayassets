@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_账号</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="20"></rect>
+    </defs>
+    <g id="✅登注+公告+新手+客服" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-0-注册" transform="translate(-34, -316)">
+            <g id="input" transform="translate(20, 304)">
+                <g id="icon_账号" transform="translate(14, 12)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="蒙版"></g>
+                    <g id="编组" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero" opacity="0.699999988">
+                        <g transform="translate(3.5879, 3)" id="形状">
+                            <path d="M4.763001,8.04957017 C2.0361505,8.04957017 0,9.81641175 0,12.3822708 L0,12.6587697 C0,14 2.18198057,14 4.94493692,14 L7.87920063,14 C10.5324327,14 12.8241375,14 12.8241375,12.6587697 L12.8241375,12.3822708 C12.8241375,9.81641175 10.7878307,8.04957017 8.06113654,8.04957017 L4.763001,8.04957017 Z M6.26506643,7.37434409 C8.42500837,7.37434409 10.1824718,5.7205091 10.1824718,3.68654683 C10.1824718,1.65367869 8.42500837,0 6.26506643,0 C4.1063749,0 2.34875516,1.65383499 2.34875516,3.68654683 C2.34875516,5.7205091 4.1063749,7.37434409 6.26506643,7.37434409 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
